@@ -1,0 +1,479 @@
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\bin\Debug\FontAwesome.Sharp.dll
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\bin\Debug\FontAwesome.Sharp.dll
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Saran.resources
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\OneDrive - UNIVERSITAS AMIKOM YOGYAKARTA\!MATKUL\TUF\Pemrograman Lanjut\COBA COBA UTS-20231119T100848Z-001\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Invoice.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Invoice.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.LogoutPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Invoice.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.LogoutPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update base\Homepage update\Db Upgrade base code\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Invoice.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.LogoutPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Invoice.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.LogoutPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl3.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl4.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl3.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl4.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Invoice.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.LogoutPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl3.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl4.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.LogoutPage.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Riwayat.resources
+D:\KULIAH!\Sem 3\Pemrograman Lanjut\UAS FP\Keranjang Update NYELL WELL POLL TOTAL\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl5.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe.config
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\COBA COBA UTS.pdb
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\Newtonsoft.Json.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\RestSharp.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Buffers.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.CodeDom.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.Odbc.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.OleDb.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SqlClient.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Data.SQLite.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.EventLog.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Drawing.Common.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Packaging.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.IO.Ports.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Memory.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Numerics.Vectors.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Permissions.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Security.Principal.Windows.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceModel.Syndication.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\bin\Debug\System.Threading.AccessControl.xml
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.AssemblyReference.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Properties.Resources.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl2.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl3.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl4.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.UserControl5.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.ForgotPassword.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Form1.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Homepage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.Riwayat.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Keranjang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.LoginPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.View.LogoutPage.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Pembayaran.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.SignUp.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA_COBA_UTS.Tentang.resources
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.GenerateResource.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CoreCompileInputs.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.Fody.CopyLocal.cache
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.csproj.CopyComplete
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.exe
+D:\BERKAS SEMESTER 3\PL\UAS PROGRESS\Keranjang Update NYELL WELL POLL TOTAL HISTORY\COBA COBA UTS\COBA COBA UTS\obj\Debug\COBA COBA UTS.pdb
